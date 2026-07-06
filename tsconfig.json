@@ -1,0 +1,4 @@
+{
+  // Сгенерируется полноценно после `nuxt prepare` (postinstall).
+  "extends": "./.nuxt/tsconfig.json"
+}

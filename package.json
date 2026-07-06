@@ -1,0 +1,18 @@
+{
+  "name": "b24-userfield-widget-nuxt",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@bitrix24/b24jssdk": "^2.0.0"
+  },
+  "devDependencies": {
+    "nuxt": "^3.14.0"
+  }
+}
